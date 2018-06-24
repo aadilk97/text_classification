@@ -1,53 +1,57 @@
-North Korea has celebrated the Trump-Kim summit as a great win for the country, with state media reporting that the US intends to lift sanctions.
+Data from millions of Facebook users who used a popular personality app, including their answers to intimate questionnaires, was left exposed online for anyone to access, a New Scientist investigation has found.
 
-The two leaders met on Tuesday, signing a brief declaration on denuclearisation and reducing tensions.
+Academics at the University of Cambridge distributed the data from the personality quiz app myPersonality to hundreds of researchers via a website with insufficient security provisions, which led to it being left vulnerable to access for four years. Gaining access illicitly was relatively easy.
 
-President Donald Trump said afterwards that sanctions would remain in place for now, but would be lifted once "nukes are no longer a factor".
+The data was highly sensitive, revealing personal details of Facebook users, such as the results of psychological tests. It was meant to be stored and shared anonymously, however such poor precautions were taken that deanonymising would not be hard.
 
-He also announced an unexpected end to US-South Korea military drills.
+“This type of data is very powerful and there is real potential for misuse,” says Chris Sumner at the Online Privacy Foundation. The UK’s data watchdog, the Information Commissioner’s Office, has told New Scientist that it is investigating.
 
-The move - long demanded by Pyongyang - has been seen as a major concession to North Korea and appeared to take US allies in the region by surprise.
+The data sets were controlled by David Stillwell and Michal Kosinski at the University of Cambridge’s The Psychometrics Centre. Alexandr Kogan, at the centre of the Cambridge Analytica allegations, was listed as a collaborator on the myPersonality project until the summer of 2014.
 
-The Pentagon has since sought to reassure its allies of its "ironclad" security commitments.
+Facebook suspended myPersonality from its platform on 7 April saying the app may have violated its policies due to the language used in the app and on its website to describe how data is shared.
 
-In his latest tweets after arriving back in the United States, Mr Trump continued his upbeat tone.
+More than 6 million people completed the tests on the myPersonality app and nearly half agreed to share data from their Facebook profiles with the project. All of this data was then scooped up and the names removed before it was put on a website to share with other researchers. The terms allow the myPersonality team to use and distribute the data “in an anonymous manner such that the information cannot be traced back to the individual user”.
 
-"There is no longer a nuclear threat from North Korea," he maintained. "President Obama said that North Korea was our biggest and most dangerous problem. No longer - sleep well tonight!"
+To get access to the full data set people had to register as a collaborator to the project. More than 280 people from nearly 150 institutions did this, including researchers at universities and at companies like Facebook, Google, Microsoft and Yahoo.
 
-North Korea's media are tightly controlled by the government and only ever report positively on officials' activities. They rarely report on leader Kim Jong-un's activities in real time.
+However, for those who were not entitled to access the data set because they didn’t have a permanent academic contract, for example, there was an easy workaround. For the last four years, a working username and password has been available online that could be found from a single web search. Anyone who wanted access to the data set could have found the key to download it in less than a minute.
 
-But Tuesday's summit in Singapore was front page news on Wednesday, with multiple images of Mr Kim alongside Mr Trump.
+The publicly available username and password were sitting on the code-sharing website GitHub. They had been passed from a university lecturer to some students for a course project on creating a tool for processing Facebook data. Uploading code to GitHub is very common in computer science as it allows others to reuse parts of your work, but the students included the working login credentials too.
 
-Official newspaper Rodong Sinmun called the summit "the meeting of the century" on its front page.
+myPersonality wasn’t merely an academic project; researchers from commercial companies were also entitled to access the data so long as they agreed to abide by strict data protection procedures and didn’t directly earn money from it.
 
-State media agency KCNA published an enthusiastic article in English praising the talks as a historic break from the past.
+Stillwell and Kosinski were both part of a spin-out company called Cambridge Personality Research, which sold access to a tool for targeting adverts based on personality types, built on the back of the myPersonality data sets. The firm’s website described it as the tool that “mind-reads audiences”.
 
-The declaration signed at the end of the summit said the two countries would co-operate towards "new relations", while the US would provide "security guarantees" to North Korea.
+Facebook started investigating myPersonality as part of a wider investigation into apps using the platform. This was started by the allegations surrounding how Cambridge Analytica accessed data from an app called This Is Your Digital Life developed by Kogan.
 
-Pyongyang in return "commits to work toward complete denuclearisation of the Korean peninsula," the document says.
+Today it announced it has suspended around 200 apps as part of its investigation into apps that had access to large amounts of information on users.
 
-Most Western observers have said the deal appears to include significant concessions from the US while including no new commitments from North Korea nor details on how denuclearisation could be achieved.
+Cambridge Analytica had approached the myPersonality app team in 2013 to get access to the data, but was turned down because of its political ambitions, according to Stillwell.
 
-KCNA has focused on those elements as a great breakthrough for North Korea.
+“We are currently investigating the app, and if myPersonality refuses to cooperate or fails our audit, we will ban it,” says Ime Archibong, Facebook’s vice president of Product Partnerships.
 
-"Trump expressed his intention to halt US-South Korea joint military exercises, offer security guarantees to the North and lift sanctions against it along with advance in improving the mutual relationship through dialogue and negotiation," it said.
+The myPersonality app website has now been taken down, the publicly available credentials no longer work, and Stillwell’s website and Twitter account have gone offline.
 
-Although not part of the joint declaration, Mr Trump said after the summit that sanctions "will come off" once the US is sure that the nukes are "no longer a factor". He also said he hoped that this would be soon.
+“We are aware of an incident related to the My Personality app and are making enquiries,” a spokesperson for the Information Commissioner’s Office told New Scientist.
 
-• What are the US-South Korea war games?
+The credentials gave access to the “Big Five” personality scores of 3.1 million users. These scores are used in psychology to assess people’s characteristics, such as conscientiousness, agreeableness and neuroticism. The credentials also allowed access to 22 million status updates from over 150,000 users, alongside details such as age, gender and relationship status from 4.3 million people.
 
-Depicting the two leaders very much as equals at the meeting, KCNA quotes Mr Kim as saying it was urgent "to make bold decision on halting irritating and hostile military actions against each other".
+“If at any time a username and password for any files that were supposed to be restricted were made public, it would be a consequential and serious issue,” says Pam Dixon at the World Privacy Forum. “Not only is it a bad security practice, it is a profound ethical violation to allow strangers to access files.”
 
-KCNA also reported that both leaders had agreed to visit each other in the US and North Korea respectively.
+Beyond the password leak and distributing the data to hundreds of researchers, there are serious concerns with the way the anonymisation process was performed.
 
-Japan's Prime Minister Shinzo Abe spoke to Donald Trump after the summit, saying there was "great meaning in Chairman Kim's clearly confirming to President Trump the complete denuclearisation".
+Each user in the data set was given a unique ID, which tied together data such as their age, gender, location, status updates, results on the personality quiz and more. With that much information, de-anonymising the data can be done very easily. “You could re-identify someone online from a status update, gender and date,” says Dixon.
 
-Tokyo also, however, cautioned that despite Pyongyang's pledge for denuclearisation no concrete steps had been taken and that Japan would not let down its guard.
+This process could be automated, quickly revealing the identities of the millions of people in the data sets, and tying them to the results of intimate personality tests.
 
-Defence Minister Itsunori Onodera said Japan sees "US-South Korean joint exercises and the US military presence in South Korea as vital to security in East Asia".
+“Any data set that has enough attributes is extremely hard to anonymise,” says Yves-Alexandre de Montjoye at Imperial College London. So instead of distributing actual data sets, the best approach is to provide a way for researchers to run tests on the data. That way they get aggregated results and never access to individuals. “The use of the data can’t be at the expense of people’s privacy,” he says.
 
-"It is up to the US and South Korea to decide about their joint exercises. We have no intention of changing our joint drills with the US," he said.
+The University of Cambridge says it was alerted to the issues surrounding myPersonality by the Information Commissioner’s Office. It says that, as the app was created by Stillwell before he joined the university, “it did not go through our ethical approval processes”. It also says “the University of Cambridge does not own or control the app or data”.
 
-Chinese Foreign Minister Wang Yi described the Singapore summit as an "equal dialogue" between the two sides, adding that "no-one will doubt the unique and important role played by China: a role which will continue".
+Research like this can help understand political advertising on Facebook and the spread of fake news. But it also shows how powerful a data set like this one really is, and how protected it needs to be. “It’s clear that data-sharing requires more control and oversight, but it would be a mistake to stop this sort of research,” says Sumner.
 
-Chinese state media described the summit as a "starting point" but said "no-one would expect the half-day summit to be able to iron out all differences and remove deep-seated mistrust between the two long-time foes".
+When approached, Stillwell says that throughout the nine years of the project there has only been one data breach, and that researchers given access to the data set must agree not to de-anonymise the data. “We believe that academic research benefits from properly controlled sharing of anonymised data among the research community,” he told New Scientist.
+
+He also says that Facebook has long been aware of the myPersonality project, holding meetings with himself and Kosinski going back as far as 2011. “It is therefore a little odd that Facebook should suddenly now profess itself to have been unaware of the myPersonality research and to believe that the use of the data was a breach of its terms,” he says.
+
+The investigations by Facebook and the Information Commissioner’s Office should try to determine who accessed the myPersonality data and what it was used for. However, as it was shared with so many different people, tracking everyone who has a copy and what they did with it will prove very difficult. We will never know exactly who did what with this data set. “This is the tip of the iceberg,” says Dixon. “Who else has this data?”

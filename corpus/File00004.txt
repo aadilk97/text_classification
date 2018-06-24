@@ -1,9 +1,41 @@
-The country's famous anchor Ri Chun Hee, known as the "pink lady" for bright outfits, told North Koreans of the news in her usual melodramatic manner.
+SAN FRANCISCO (Reuters) - Facebook Inc said on Wednesday the personal information of up to 87 million users, mostly in the United States, may have been improperly shared with political consultancy Cambridge Analytica, up from a previous news media estimate of more than 50 million.
 
-"Thanks to the fixed decision and will of the top leaders of the two countries to put an end to the extreme hostile relations between the DPRK and the US -- which lingered for the longest period on the earth in terms of acute confrontation -- and to open up a new future for the sake of the interests of the peoples of the two countries and global peace and security, the first DPRK-US summit was held," she said, using an acronym for her country.
+Chief Executive Mark Zuckerberg said in a conference call with reporters that Facebook had not seen “any meaningful impact” on usage or ad sales since the scandal, although he added, “it’s not good” if people are unhappy with the company.
 
-North Korean media, tightly controlled by the state, usually refrains from reporting on Kim's immediate diplomatic moves and typically delivers news of major events the day after they happen.
+Shares rose more than 3 percent after the bell.
 
-Other state media outlets provided a breakdown of the day's events, calling the talks "epoch-making," and lavishing praise on Trump's "enthusiasm to resolve matters in a realistic way through dialogue and negotiations."
+Zuckerberg told reporters that he accepted blame for the data leak, which has angered users, advertisers and lawmakers, while also saying he was still the right person to head the company he founded.
 
-The front page of the state newspaper, the Rodong Sinmun, splashed photos of the two leaders, under the headline: "A meeting of the century that opened a new era in history of North Korea-US relations." North Korean newsreader Ri Chun Hee, known as the "pink lady," reading a bulletin in Pyongyang on Tuesday. In its first report on the summit, the official KCNA news agency on Wednesday attributed the apparent breakthrough in relations to Kim's "proactive peace-loving measures" earlier in the year, and applauded Trump's willingness to negotiate despite longstanding hostility between the two countries. Related article: These sanctions will keep squeezing North Korea's economy Trump and Kim met on the Singaporean resort island of Sentosa on Tuesday -- the first time a sitting US President has met with the leader of the reclusive state. committed to "establish new US-DPRK relations," reaffirming Kim's "firm and unwavering commitment to complete denuclearization of the Korean Peninsula" and offering security guarantees to Pyongyang. joint statement signed by the two leaders committed to "establish new US-DPRK relations," reaffirming Kim's "firm and unwavering commitment to complete denuclearization of the Korean Peninsula" and offering security guarantees to Pyongyang. The KCNA report stated that the two leaders shared their "opinions about the practical measures that are important to accomplish peace and stability on the Korean Peninsula and finish the hostility between North Korea and the US." It was a far cry from September last year, when KCNA published a statement authored by Kim describing the US President as "mentally deranged." Will there be change after Trump-Kim summit? Will there be change after Trump-Kim summit? Wednesday's KCNA report made special mention of Trump's apparent readiness to halt US-South Korean military drills, a declaration that apparently took Seoul and Tokyo -- as well as at least some corners of the Pentagon -- by surprise "Trump expressed his intention to halt the US-South Korea joint military exercises, which the DPRK side regards as provocation, over a period of good-will dialogue between the DPRK and the US, offer security guarantees to the DPRK and lift sanctions against it," read the report, suggesting this would be facilitated "through dialogue and negotiation." A railway employee puts up the front page of a state-owned newspaper Tuesday, telling news of North Korean leader Kim Jong Un's visit to Singapore. It also urged that in "order to achieve peace and stability of the Korean Peninsula and realize its denuclearization," the two countries should "make decisions to cease the military actions that provoke each other" -- an apparent reference to Pyongyang's missile and nuclear tests as well as the US and South Korean joint military drills -- and that both sides create "a law or regulations ... that affirm (that intention)." There was no reference to the specific steps that North Korea would undertake to begin the process of denuclearization. The agency concluded its report by stating that Kim and Trump had "gladly accepted" invitations to visit their respective countries at a later date. In a separate dispatch KCNA also reported that Kim received a letter from Singaporean Prime Minister Lee Hsien Loong, praising the "successful conclusion of the historic summit" between Kim and Trump. "The joint statement signed by Chairman Kim Jong Un and President Donald Trump is a dramatic advance and the first step of very important significance in the long course toward permanent peace and stability on the denuclearized Korean Peninsula," the letter said, according to KCNA. The letter also stated that the Singaporean Prime Minister wishes to meet Kim again "in the near future." In a further sign of Pyongyang's attempts to normalize its relations with the outside world, another KCNA article reported that ceremonial head of state Kim Yong Nam had departed Pyongyang for Moscow to attend the opening ceremony of the 2018 FIFA World Cup.
+“When you’re building something like Facebook that is unprecedented in the world, there are going to be things that you mess up,” Zuckerberg said, adding that the important thing was to learn from mistakes.
+
+He said he was not aware of any discussions on the Facebook board about him stepping down, although directors would face a challenge if they wanted to oust him because Zuckerberg is the controlling shareholder.
+
+He said he had not fired anyone over the scandal and did not plan to. “I’m not looking to throw anyone else under the bus for mistakes that we made here,” he said.
+
+Facebook first acknowledged last month that personal information about millions of users wrongly ended up in the hands of Cambridge Analytica.
+
+Zuckerberg will testify about the matter next Tuesday and Wednesday during two U.S. congressional hearings.
+
+London-based Cambridge Analytica, which has counted U.S. President Donald Trump’s 2016 campaign among its clients, disputed Facebook’s estimate of affected users. On Wednesday it said on Twitter it had received no more than 30 million records from a researcher it hired to collect data about people on Facebook.
+
+Zuckerberg, on the call with reporters, said Facebook should have done more to audit and oversee third-party app developers like the one that Cambridge Analytica hired in 2014.
+
+“Knowing what I know today, clearly we should have done more,” he said.
+
+Facebook was taking steps to restrict which personal data is available to third-party app developers, he said, and it might take two more years to fix Facebook's problems. (bit.ly/2Ejpktb)
+
+“We’re broadening our view of our responsibility,” Zuckerberg said.
+
+Most of the up to 87 million people whose data was shared with Cambridge Analytica were in the United States, Facebook Chief Technology Officer Mike Schroepfer wrote in a blog post. (Graphic: bit.ly/2q5r5pl)
+
+Shares in Facebook closed down 0.6 percent on Wednesday to $155.10. They have tumbled more than 16 percent since the Cambridge Analytica scandal broke.
+
+The previous estimate of more than 50 million Facebook users affected by the data leak came from two newspapers, the New York Times and London’s Observer, based on their investigations of Cambridge Analytica.
+
+Zuckerberg said Facebook came to the higher estimate by looking at the number of people who had downloaded a personality quiz app created by Cambridge University academic Aleksandr Kogan, or about 270,000 people, and then adding in the number of friends they had.
+
+Cambridge Analytica has said that it engaged Kogan “in good faith” to collect Facebook data in a manner similar to how other third-party app developers have harvested personal information.
+
+The scandal has kicked off investigations by Britain’s Information Commissioner’s Office, Australia’s Privacy Commissioner and the U.S. Federal Trade Commission and by some 37 U.S. state attorneys general.
+
+Nigeria’s government will investigate allegations of improper involvement by Cambridge Analytica in that country’s 2007 and 2015 elections, a presidency spokesman said on Monday.

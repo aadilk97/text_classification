@@ -5,16 +5,16 @@ import os
 
 
 # queries = ['trump and kim summit', 'narendra modi up elections', 'rahul gandhi karnataka', 'pranab mukherjee rss', 'steve smith ball tampering', 'sylvester stallone news', 'kylie jenner news',
-#  'news on taylor swift', ' news on priyanka chopra', 'salman khan news', 'jio news', 'ab de villiers retirement', 'virat kohli injury']
+#  'news on taylor swift', ' news on priyanka chopra', 'salman khan news', 'jio news', 'ab de villiers retirement', 'virat kohli injury, 'facebook data leak', 'facebook ai']
 
-queries = ['', '']
+queries = ['roger federer', 'rafael nadal', 'ronaldo', 'google deep mind', 'android']
 
 
 g = Goose()
 path_doc = '/Users/aadil/cb-02_internship/corpus'
 path_title = '/Users/aadil/cb-02_internship/titles'
 
-i = 0
+i = 74
 for query in queries:
 	count = 0
 	filename = 'doc'

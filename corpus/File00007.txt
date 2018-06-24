@@ -1,1 +1,34 @@
-NEW DELHI: The opening moves of the UP elections were fraught for the BJP. The party faced a restless Jat constituency and Mayawati was a real threat in this neck of the woods. But paradoxically, the hype whipped up by the SP-Congress alliance ended up helping BJP safely negotiate the treacherous terrain.The newly-minted SP-Congress pact prevented west UP's large Muslim population from rallying behind BSP, a development that would have spelt trouble for BJP. This, with discontent in the Jat ranks, could have hurt the saffron campaign.Though estimates vary, BJP chief Amit Shah 's intervention with Jat leaders prevented large-scale desertions while several other communities, barring Muslims, backed the party. So, BJP emerged with a lead that only grew stronger as the election progressed across the state, with the final victory setting the scene for the party's bid to defend its Gujarat crown for a record sixth term. Narendra Modi 's success in retaining Gujarat in 2012 set him on course for the prime minister-ship, and BJP hopes that he will repeat the feat.After the first two phases, Modi began to step up his tempo and pressed harder on the theme of "discrimination" in SP's governance by suggesting power supply during Ramzan was more regular than for Hindu festivals. He then swung out at SP again, with his comparison of government assistance to burial grounds as opposed to cremation arenas. Thereafter, Shah used the "KASAB" formulation to attack SP.Finally, when questions were raised about Modi's presence in his constituency Varanasi for three consecutive days holding roadshows, BJP responded by terming it a "victory procession" as party seniors grew increasingly confident that the party was home and dry.Modi powered ahead, gunning for a sweep in the final 40 seats, proclaiming that the election was already in the bag and he was looking for bonus points. The results made it quite plain that speculation that the party had done badly in the first two phases was completely off the mark.At Fatehpur, Modi spoke about 'kabristan' and 'shamshan' , and while hinting at preferential distribution of amenities, the PM brought up his " sabka saath sabka vikas " slogan. BJP's lead began to grow from the third phase in the SP bastions of central UP, where it became clear that the internal feud was hurting the party.
+Oh Christ. Here is what I am certain of:
+
+• The researchers were not scared of the bots, and did not shut it down in fear of god knows what. The bots are not Skynet, although many, many fucking articles have run with that notion and have gone on to spread ignorance yet again. 
+• The bots were not conscious or anywhere near conscious. Shutting it down was not an immoral act of murder or anything remotely close.
+
+These were machine learning algorithms that were designed to ping pong back and forth to negotiate.
+
+TheNextWeb’s article[1] (which I believe was the first mainstream news article on the topic) gives an example which states this, and which shows example sentences between the bots, which use words like “i can everything else” and “have a ball”, which I view as support for the notion that negotiation was the primary purpose of these bots.
+
+Their negotiation purposes were presented to them. Defined by people.
+
+No where in there does it say anything about convincing humans to do things for their own evil plans, or about them taking over or anything else. I could find no citations in any of the 5 articles I checked.
+
+The actually interesting takeaway for me was a kind of “language drift” which was enabled because two bots had no reward built-in to sticking to standard English. As a result, they were free to change the rules of the language as they saw fit (such as to reduce ambiguity).
+
+Their language was not very complex — I’m certain people could work it out if they wanted to — it was simply non-obvious to humans.
+
+It’s far more likely that they’d shut it down because they’re trying to understand how bots communicate in general rather than how language can shift, and thus they needed to figure out a way to make them stick to the rules (or define a more rigid form of communication).
+
+However, another interesting insight to me is that humans also have this kind of language drift.
+
+We have different limitations than machines do, due to the time it takes us to memorize things (i.e. significantly more time), due to the energy it takes to say things, the fact that it’s difficult to distinguish a bunch of the same words over and over from different counts of those same words, etc. but we do experience language drift.
+
+In fact, that is how all languages have developed. Distinct sections of the population are geographically isolated (or isolated in terms of communication in general), and as a result, they begin to experience drift based on random chance, things in their environment, cultural events, and a range of other factors.
+
+It would stand to reason that the same could easily happen among pairs of people, if they were alone for centuries.
+
+It’s just like siblings who develop their own “languages” and inside lingo in a very organic fashion due to constant communication and proximity with relative isolation from others.
+
+What prevents everyone from language drifting is our built-in reward function of being able to communicate with 99% of our larger society. But in relative absence of that, significant language drift is very possible.
+
+All of that is an immensely interesting notion and very cool to see it in machines. It makes me wonder what other phenomena we could confirm and hypotheses we could test out using machines.
+
+But unfortunately virtually fucking no one is going to be able to enjoy this concept because of all the goddamn marketers who need to make their 10 fucking cents by whoring out good research as a fucking movie plot.

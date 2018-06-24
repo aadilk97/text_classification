@@ -1,3 +1,19 @@
-UP elections 2017: In Meerut, PM Narendra Modi said he was committed to end corruption in the country.
+If you saw the first reports about Facebook’s artificial intelligence chatbots, you might believe that the robot revolution was about to overthrow human civilization.
 
-Lucknow: With barely a week to go before assembly elections, Uttar Pradesh is set to witness a host of political heavyweights hitting the campaign trail today. Prime Minister Narendra Modi, who is leading the BJP campaign in the state, is expected to hold a rally in Aligarh, in Western Uttar Pradesh. Congress vice president Rahul Gandhi will also address a public meeting in Western Uttar Pradesh - at Saharanpur. Later in the day, he will also lead a rally along with alliance partner and state Chief Minister Akhilesh Yadav in Kanpur.
+The reports said that the bots were talking among themselves using a language that humans could not understand. The word was that Facebook’s bots had slipped their leashes and were taking over.
+
+Well, not exactly. While it is true that some chatbots created for AI experiments on automated negotiation had developed their own language, this wasn’t a surprise. In fact, it wasn’t even the first time that such a thing had happened. The fact that it might happen was explained in a blog entry on the Facebook Code pages.
+
+The blog discussed how researchers were teaching an AI program how to negotiate by having two AI agents, one named Bob and the other Alice, negotiate with each other to divide a set of objects, which consisted a hats, books and balls. Each AI agent was assigned a value to each item, with the value not known to the other ‘bot. Then the chatbots were allowed to talk to each other to divide up the objects.
+
+The goal of the negotiation was for each chatbot to accumulate the most points. While the ‘bots started out talking to each other in English, that quickly changed to a series of words that reflected meaning to the bots, but not to the humans doing the research. Here’s a typical exchange between the ‘bots, using English words but with different meaning:
+
+Alice responds: “Balls have zero to me to me to me to me to me to me to me to me to,”
+
+The conversation continues with variations of the number of the times Bob said “i” and the number of times Alice said “to me” in the discussion.
+
+The AI language emerged during a part of Facebook’s research where the AI agents practiced their negotiation skills with each other. There, the agents work on improving their skills by chatting with other agents. The researchers initially worked to have the agents simulate being human, specifically to avoid problems such as language creation.
+
+“During reinforcement learning, the agent attempts to improve its parameters from conversations with another agent. While the other agent could be a human, FAIR (Facebook AI Research) used a fixed supervised model that was trained to imitate humans,” the researchers explained in their blog entry.
+
+“The second model is fixed, because the researchers found that updating the parameters of both agents led to divergence from human language as the agents developed their own language for negotiating.”

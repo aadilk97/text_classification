@@ -1,31 +1,11 @@
-In the joint statement, Mr. Trump “committed to provide security guarantees” to North Korea. Mr. Kim “reaffirmed his firm and unwavering commitment to complete denuclearization of the Korean Peninsula.”
+If you're seeing a weird link at the top of your Facebook newsfeed today, it may mean your personal data has been leaked. From today, Facebook will be providing all users with details of the apps they're using/have used in the past, as well as what data they could have collected. Facebook is also expected to start notifying some of the 87 million users (most of whom reside in the United States) whose data was "improperly shared" and used by a company allegedly targeting users with political ads during the 2016 presidential campaign.
 
-But the statement was short on details and did not lay out potential next steps or a timetable. It was not immediately released to reporters, but was legible in a photo of Mr. Trump holding it up at the ceremony.
+Facebook shares user data all the time — when you log into Instagram using your Facebook account, for example, Instagram gets that data. Last month, a whistleblower came forward to say that Cambridge Analytica, a data-mining firm, allegedly improperly accessed Facebook user data through a third-party quiz app, and it used that data to build psychological profiles to target voters with political ads. Cambridge Analytica has denied any wrongdoing.
 
-The statement said the two nations would hold “follow-on negotiations” led by Secretary of State Mike Pompeo and a high-level North Korean official “at the earliest possible date, to implement the outcomes” of the summit meeting.
+It's a big deal because it means that roughly 87 million people's personal information was maybe used to sway their vote. If Cambridge Analytica was able to put certain ads into specific people's feeds, it could have influenced their political views — Facebook users were served (at times misleading) ads that related to issues they felt strongly about, and that were designed to provoke a reaction — and a share.
 
-The statement also said the two nations would “join their efforts to build a lasting and stable peace regime” on the divided Korean Peninsula, meaning talks to reduce military tensions that could eventually lead to a formal peace treaty to end the Korean War.
+To add another layer to the controversy, Cambridge Analytica has ties to some of President Trump's biggest donors. Rebekah Mercer, who owns the right-wing media outlet Breitbart News, sits on the board, for example. She donated heavily to Trump's campaign. This scandal comes amid a conversation amongst lawmakers that Facebook didn't do enough to combat fake news during the election.
 
-Mr. Trump presented Mr. Kim with a short video depicting the prosperity that could come with peace. The video, which was shown to journalists before Mr. Trump’s news conference, was a hyperbolic movie-trailer-style montage of many, many images, both positive and dire.
+You can be proactive and check whether your data was leaked before the warning link appears in your timeline or you get a notification about it. Use this tool that Facebook released yesterday to find out, there are more in-depth instructions on how to interpret the results here. From there, you can choose which apps have your information and which ones don't, which limits the chance for leaking.
 
-Among them: airplanes, bridges, skyscrapers, smiling children, American armaments, missile launches, postwar devastation, high-speed trains, a basketball player dunking a ball and horses running through water.
-
-“There comes a time when only a few are called upon to make a difference, but the question is: What difference will the few make?” intones a narrator in the English-language version of the video.
-
-“The past doesn’t have to be the future. Out of the darkness can come the light.”
-
-American and South Korean officials were surprised by Mr. Trump’s plans to end “war games” on the Korean Peninsula. Lt. Col. Jennifer Lovett, a United States military spokeswoman in South Korea, said in an email that the American command there “has received no updated guidance on execution or cessation of training exercises — to include this fall’s schedule Ulchi Freedom Guardian.”
-
-“We will continue with our current military posture until we receive updated guidance from the Department of Defense,” she added.
-
-Mr. Trump’s statement that he was suspending joint military exercises with South Korea also stunned many South Koreans. The annual exercises have been an integral part of the alliance with the United States that forms the bulwark of South Korea’s defenses against the North.
-
-Mr. Trump’s pronouncement raised fears that Washington was making concessions before North Korea had actually dismantled its nuclear weapons.
-
-The South Korean Defense Ministry issued a curt statement saying that it was trying to determine Mr. Trump’s intentions.
-
-Despite the uncertainty, President Moon Jae-in of South Korea celebrated the meeting’s outcome, calling it “a historic event that has helped break down the last remaining Cold War legacy on earth.”
-
-“I pay my high compliments for the courage and determination of the two leaders, President Trump and Chairman Kim, not to settle for that outdated and familiar reality but to take a daring step toward change,” Mr. Moon said.
-
-“Once again, I would like to pay my respects to President Trump, who achieved a feat that no one else has ever delivered,” he said.
+You can also explore Facebook's Privacy Settings to learn about the ways you're protected and the ways you're not. In regards to Cambridge Analytica specifically though, there's not much to do, considering the actual data leak took place over a year ago.
