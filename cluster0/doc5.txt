@@ -1,0 +1,101 @@
+Siri and Alexa have now become household names in America, Xiaoice has been an digital friend to million in China since 2014, and the term “chatbot” has been a buzzword for nearly two years.
+
+With all the hype about chatbots for consumers, we set out to discover the potential business implications of conversational interfaces or “chatbots”. By analyzing the chatbot plans at the “big 4” technology firms (Microsoft, Google, Facebook, Amazon), we set out to answer the following questions for our business readers:
+
+• What are the biggest announcements and initiatives of the “big 4” for conversational interfaces? 
+• What does the state of the chatbot world today mean for business leaders across industries? 
+• Why companies these companies betting on this technology?
+
+We begin with some context on the development of chatbots and why they’ve become popular, followed by a chatbot overview of the initiatives of Facebook, Microsoft, Google, and Amazon, respectively. In the conclusion, we’ll tie together the trends and patterns we picked up across all four tech giants, and shed some light on what their progress and vision might mean for other businesses.
+
+Readers with a particular interest in different “in use” chatbot applications might want to read our recent article titled “7 chatbot use cases that actually work.”
+
+We’ll begin by laying some groundwork as to why chatbots have become an important interface for the “big 4″ tech giants”:
+
+Companies are investing in chatbots since the technology has started to reach a usable level of maturity and to follow their customers.
+
+One big reason more corporations are using these systems is that they feel many of the technological limitations will soon be overcome. As anyone who has recently interacted with a chatbot or digital assistant knows, the experience can sometimes be frustrating. Chatbots often stumble over anything beyond basic requests.
+
+To build a truly human-like conversational experience, the AI algorithms powering a chatbot must process a massive amount of data and interactions. Tech leaders feel they have gotten to the point where it is possible to start producing, gathering, and processing that trove of data. Every current use of AI-powered conversational interfaces, such as Facebook Messenger bots, Xiaoice, Alexa, Siri, Cortana, etc., is creating the data needed to make systems like these smarter. From the beginning Microsoft designed Cortana to get smarter with every use, learning both about the individual consumer’s want and people as a whole with each interaction.
+
+The other reason is companies are following the customers. According to a BI Intelligence analysis, in 2015 the number of monthly active users on messaging apps quickly surpassed the number of active social network users. Last year WhatsApp reached the one billion user mark, meaning roughly one in seven people on the planet use the Facebook-owned messaging platform. Their Chinese competitor, WeChat, claims to have 768 million daily logged in users as of September 2016. Importantly, half of their users use it for at least 90 minutes a day. The number of WeChat messages sent increased by 67% from 2015 to 2016.
+
+Messaging has become a major way people interact with their smartphones, so companies want chatbots to literally be a part of the conservation. If you are talking with your friends about travel plans or going to a movie, a chatbot can directly enter the conversation to provide these services. Oracle recently surveyed major companies around the world and found 80 percent plan to use chatbots for customer interactions by 2020 and 36 percent have already started implementing them.
+
+Via both its Messenger platform and its ownership of WhatsApp, Facebook is the dominant player in messaging services, which is why it has invested so heavily in communication bots. Facebook is working to make it easy for companies to use its bot technology to contact customers within its messaging services. Instead of using different apps, people could, for instance, order an Uber directly from Messenger. Facebook currently has 1.2 billion people using Messenger and over 100,000 monthly active bots.
+
+Facebook opened up its Messenger service to developers and launched its bot store in early 2016 and has been constantly updating it for the past year. One big advancement is allowing multiple people to communicate with a bot in a single conversation. A group of friends could, say, be discussing evening plans and seamlessly order movie tickets.
+
+Zuckerberg has enthusiastically pursued the chatbot market, putting itself to be in the strongest position to become the ubiquitous chat interface of everyday consumers. It’s not clear whether Facebook’s 1 billion daily users will change their behavior from “likes” and posts to shopping and booking flights through chat, but the company is certainly poised to test that hypothesis. Below, Zuckerberg shares a bit of his vision for Facebook Messenger, as well as some novel use-cases:
+
+Several companies bots that have very successfully convince users to get information or make purchases using a conversational interface. For example, Sephora’s bot allows people to tell them what services to book appointments. It saw an 11 percent increase in books via the bot compared to other avenues.
+
+What Facebook sees as the future is M, their AI-powered virtual assistant. A small number of beta testers have access to full-fledged M, which is backed up by humans. When a question is too difficult for the AI bot, it is referred to a human backup to address. Each time a human needs to step in, the program learns from what the human does. Once the AI has learned to handle a feature sufficiently in testing, it could be rolled out to over a billion people using Facebook. The recently launched it’s personal assistant M can scan your conversation for certain prompts, like the indication you owe someone money or are planning to go somewhere, and can suggest ways to transfer money or hail a rideshare service directly in the conversation. Messenger now allows chat extension which allows users to contextually bring bots into their conversation. People can use bots directly split bills, share music, or order food within their conversation.
+
+The engineers behind the program aren’t sure if it will take three years or ten, but their long term vision is to create a truly human-like AI assistant. Unlike current bots that people primarily use for the same simple requests over and over again, this would be an AI that could handle almost any request — one people will rely on for everything.
+
+Microsoft CEO Satya Nadella thinks chat-based interfaces will replace apps as the primary way people use the internet and is investing big on this vision of the future. Stating last year, “Bots are like new applications, and digital assistants are meta apps or like the new browsers. And intelligence is infused into all of your interactions. That’s the rich platform that we have.”
+
+Nadella has also stated that Conversation as a Platform will “fundamentally revolutionize how computing is experienced by everybody,” in a paradigm shift comparable to the development of the web browser.Microsoft sees Conversation as a Platform as its chance to regain an edge and is focusing resources accordingly. The idea is instead of a person opening an app or program and needing to enter in their information in a very specific way to get the program to do what they want, a person can just use basic language tell an AI powered machine what you want it will be taken care of it all.
+
+The video below highlights Microsoft’s vision for “Cognitive Services”, allowing businesses to build chatbots with it’s current suite of tools. At 5:20 into the video an example chatbot use case is highlighted:
+
+Microsoft may be able to parlay it’s broad enterprise adoption to become the “bot platform” for companies who already use it’s other tools.
+
+Where Microsoft feels it has an advantage is in AI technology and creating chatbots with conservational capabilities. Microsoft prides itself releasing the first true platform for text-based chat interfaces and an early start on building bots that resonate with people on an emotional level. It introduced the chatbot Xiaoice in China in 2014 and the chatbot Rinna in Japan in 2015. They have been successful not just as tools for people getting basic information, but also as entities people enjoy interacting with at an emotional level. Millions of people use these two chatbots for emotional support, to the extent that 25 percent of Xiaoice users have told the bot, “I love you.”
+
+In addition to launching their own chatbots and integrating Cortana, their AI assistant, into most of their products, Microsoft launched Bot Framework in early 2016 — a set of tools to help developers produce their own chatbots. So far over 130,000 developers have registered with Bot Framework.
+
+One such bot is, UniBot, which allows university students the manage their courses and pay the university. It is targeted at non-English speaking students who can struggle to navigate university websites in American. It can function in 60 different languages.
+
+Following Microsoft and Facebook’s lead, Amazon made its conservation interface tools, Amazon Lex, generally available to companies this April. Using the same technology behind Amazon’s Alexa, companies can build text or voice bots. Developers can use it to create conversational apps or chatbots for chat services, internet of things devices, or any messaging service.
+
+In his 2017 shareholder letter, Jeff Bezos highlighted Amazon’s focus on bringing AI to companies via Lex and told investors to, “Watch this space. Much more to come.”
+
+With all the attention on personal assistants for shopping (such as the 1-800 Flowers example we cover in our chatbot use cases article), it’s interesting to note that Amazon doesn’t seem to have a strong push for it’s equivalent of Facebook’s “M” for Facebook Messenger.
+
+Amazon did launch it’s AWS Chatbot Challenge last year, but it’s interesting to note that the challenge (which offers winners a total prize pool of $10,000, complimentary tickets to AWS re:Invent in Las Vegas) isn’t focused entirely on eCommerce – which one might expect.
+
+It seems that Amazon has put it’s chips on Echo and voice interfaces instead of chat interfaces. With over 10 million Echo devices sold, we can’t blame Amazon for aiming to keep up their momentum and focus on the area where their return could be strongest.
+
+While 1-800 Flowers can create novel chatbot applications to get press and appear innovative, Amazon likely has little interest in “toy” applications. We can presume that the company is looking for technologies that will allow it to continue to dominate retail commerce in the long term, and it seems that chatbots technology isn’t capable enough to become a major focus for Amazon at the present time.
+
+Google has been much slower to enter the chatbot space. It only launched its smart instant messaging app, Google Allo, in late 2016. Allo integrates Google Assistant, which evolved from Google Now. Allo allows people to chat directly with Google Assistant to get basic questions answered. Google Assistant can suggest restaurants or movies to watch directly within conversation between people taking place at Allo.
+
+One way Google is trying to improve its stand in the chatbot space is with their recent launch of their Chatbase. It is an analytic tool to help other companies improve their own chatbots, which are currently being used on places like Facebook Messenger. While it will help these companies improve their chatbots it should also help Google gather important information about the field.
+
+In the home-based conversational device world, Google Assistant is it’s answer to Amazon’s Lex. Allowing developers to build on top of Google’s existing NLP infrastructure, Google likely hopes to fight for it’s share of the home-based conversational device business (they’re currently lagging firmly behind Amazon’s 10 million Echo sales).
+
+Thanks to it’s massive user base on Gmail, G Suite, Google Cal, and more, Google has an enormous opportunity to implement conversational technologies into it’s communications tools. Smart Reply is a new Google service that allows Gmail users to automate all or part of their email replies based on past responses and an analysis of the sender. Companies like X.ai have tried to make a name for themselves by handling a small chunk of the “appointment booking” workflow, but there’s a strong chance that Google may eventually crack a wide swath of monotonous work communication.
+
+The only other company with the potential to do the same would be Microsoft, whose Outlook and Office suites still dominate in terms of near-ubiquitous enterprise use.
+
+Through our research we found a number of widely accepted trends across the tech giants, including the following:
+
+• Over a billion people are using messaging services and the number using them continues to grow. 
+• For many messaging services has becoming a primary way they spend time on their devices. 
+• Tech companies have begun integrating chatbots within these messaging services to help consumer easy request basic services or information. 
+• Some companies are successfully using chatbots to connect with consumers to meet basic request. 
+• As more people use chatbots and AI personal assistants the added data should allow the neural networks powers these programs continue to improve. 
+• At the moment though the ability of most chatbots is fairly limited.
+
+A number of other trends seemed to garner enthusiasm, but the tech giants weren’t as confident about. Those trends included:
+
+• Companies like Microsoft, Amazon and Facebook are heavily betting that when AI chatbots and personal assistants get smart enough they change the way people use technology. The current way people use smartphones, accessing dozens of apps to take dozens of different actions, may soon become anachronistic. They envision a more conversational and natural set of interactions with machines. You just ask and it happens. Based on Facebook’s experiment with an AI assistant that has human backup, it seems that if people have access to a really great assistant program people will use frequently. 
+• There is so no widely held acceptance for when the technology will reach this envisioned tipping point. Even the top engineers in the field don’t know if the technology will take three years or over a decade to reach that point.
+
+At the moment chatbot technology can be viewed like a six-year-old child. They are capable of doing basic chores, but they are easily confused, not particularly smart, and can be embarrassing (remember Microsoft’s “racist” Twitter chatbot, Tay?) The major tech companies are betting, though, that with a real investment in education and time, chatbots can grow into something dramatically more intelligent and useful, but we may be 2 or 3 years away from regular broad adoption – even for Facebook or Google.
+
+Microsoft Business put together an poll about where it’s business audience is in terms of implementing chatbots. The response options seemed atrociously leading and unbalanced, but the end result of the poll is nonetheless interesting:
+
+Maybe instead of “I’m super excited but don’t know where to start”, Microsoft should have included the option “I’m not sure where to start but I’ll let Google and Facebook find useful applications and I’ll model those instead of putting my own money at risk.” For most businesses – at least at the time of this writing – that option seems to be most fitting.
+
+It’s important to note that chatbots are still bumbling their way through the business landscape, trying to find applications that can consistently drive real ROI for businesses. Personal assistants, shopping assistants and customer service applications have tremendous promise, but not much by way of currently successful use cases. “Tinkering” seems to be the state of the industry, even among the tech giants to have the greatest opportunity (and resources) to leverage chatbots today.
+
+Chatbots may very well not need to be on the near-term radar of many companies. Any long-term strategic planning should certainly consider voice and text conversation interfaces – but let’s be honest: If Google, Facebook, Microsoft, and Amazon haven’t nailed many succinct use cases with strong ROI, most other businesses probably won’t either. Business leaders at other companies will have the opportunity to let the “big 4” stumble along to find the use cases that prove profitable – at which point other industries can model what works without having to spend tens of millions on “novel” or “toy” applications.
+
+Our mission at TechEmergence is to present facts and insight about the applications and implications of AI in business – and to do so better than any other media or research company on Earth. Our podcast (available on iTunes and Soundcloud) brings top AI researchers and executives to shed light on trends that our audience of business leaders cares about. Here’s a selection of interviews that might be a good follow-up to this article:
+
+• Dr. Riza Berkan (CEO of Exclone) explains current approaches to chatbot technology, and articulates a vision for improving chatbot effectiveness with “conversational templates” 
+• Dr. Charles Ortiz (head of the AI Lab at Nuance) explains the “next frontier” of conversational interfaces that will make cell phones and other devices more powerful and contextually aware. He also explains some of the major hurdles technology must overcome to get there 
+• Dr. Sheryl Brahnam (Assistant Professor at Missouri State University) explains why people tend to be rude or even violent to digital assistants and agents, and what society might do to cope with the coming influx of “bots” in our daily interactions

@@ -1,0 +1,57 @@
+Data from millions of Facebook users who used a popular personality app, including their answers to intimate questionnaires, was left exposed online for anyone to access, a New Scientist investigation has found.
+
+Academics at the University of Cambridge distributed the data from the personality quiz app myPersonality to hundreds of researchers via a website with insufficient security provisions, which led to it being left vulnerable to access for four years. Gaining access illicitly was relatively easy.
+
+The data was highly sensitive, revealing personal details of Facebook users, such as the results of psychological tests. It was meant to be stored and shared anonymously, however such poor precautions were taken that deanonymising would not be hard.
+
+“This type of data is very powerful and there is real potential for misuse,” says Chris Sumner at the Online Privacy Foundation. The UK’s data watchdog, the Information Commissioner’s Office, has told New Scientist that it is investigating.
+
+The data sets were controlled by David Stillwell and Michal Kosinski at the University of Cambridge’s The Psychometrics Centre. Alexandr Kogan, at the centre of the Cambridge Analytica allegations, was listed as a collaborator on the myPersonality project until the summer of 2014.
+
+Facebook suspended myPersonality from its platform on 7 April saying the app may have violated its policies due to the language used in the app and on its website to describe how data is shared.
+
+More than 6 million people completed the tests on the myPersonality app and nearly half agreed to share data from their Facebook profiles with the project. All of this data was then scooped up and the names removed before it was put on a website to share with other researchers. The terms allow the myPersonality team to use and distribute the data “in an anonymous manner such that the information cannot be traced back to the individual user”.
+
+To get access to the full data set people had to register as a collaborator to the project. More than 280 people from nearly 150 institutions did this, including researchers at universities and at companies like Facebook, Google, Microsoft and Yahoo.
+
+However, for those who were not entitled to access the data set because they didn’t have a permanent academic contract, for example, there was an easy workaround. For the last four years, a working username and password has been available online that could be found from a single web search. Anyone who wanted access to the data set could have found the key to download it in less than a minute.
+
+The publicly available username and password were sitting on the code-sharing website GitHub. They had been passed from a university lecturer to some students for a course project on creating a tool for processing Facebook data. Uploading code to GitHub is very common in computer science as it allows others to reuse parts of your work, but the students included the working login credentials too.
+
+myPersonality wasn’t merely an academic project; researchers from commercial companies were also entitled to access the data so long as they agreed to abide by strict data protection procedures and didn’t directly earn money from it.
+
+Stillwell and Kosinski were both part of a spin-out company called Cambridge Personality Research, which sold access to a tool for targeting adverts based on personality types, built on the back of the myPersonality data sets. The firm’s website described it as the tool that “mind-reads audiences”.
+
+Facebook started investigating myPersonality as part of a wider investigation into apps using the platform. This was started by the allegations surrounding how Cambridge Analytica accessed data from an app called This Is Your Digital Life developed by Kogan.
+
+Today it announced it has suspended around 200 apps as part of its investigation into apps that had access to large amounts of information on users.
+
+Cambridge Analytica had approached the myPersonality app team in 2013 to get access to the data, but was turned down because of its political ambitions, according to Stillwell.
+
+“We are currently investigating the app, and if myPersonality refuses to cooperate or fails our audit, we will ban it,” says Ime Archibong, Facebook’s vice president of Product Partnerships.
+
+The myPersonality app website has now been taken down, the publicly available credentials no longer work, and Stillwell’s website and Twitter account have gone offline.
+
+“We are aware of an incident related to the My Personality app and are making enquiries,” a spokesperson for the Information Commissioner’s Office told New Scientist.
+
+The credentials gave access to the “Big Five” personality scores of 3.1 million users. These scores are used in psychology to assess people’s characteristics, such as conscientiousness, agreeableness and neuroticism. The credentials also allowed access to 22 million status updates from over 150,000 users, alongside details such as age, gender and relationship status from 4.3 million people.
+
+“If at any time a username and password for any files that were supposed to be restricted were made public, it would be a consequential and serious issue,” says Pam Dixon at the World Privacy Forum. “Not only is it a bad security practice, it is a profound ethical violation to allow strangers to access files.”
+
+Beyond the password leak and distributing the data to hundreds of researchers, there are serious concerns with the way the anonymisation process was performed.
+
+Each user in the data set was given a unique ID, which tied together data such as their age, gender, location, status updates, results on the personality quiz and more. With that much information, de-anonymising the data can be done very easily. “You could re-identify someone online from a status update, gender and date,” says Dixon.
+
+This process could be automated, quickly revealing the identities of the millions of people in the data sets, and tying them to the results of intimate personality tests.
+
+“Any data set that has enough attributes is extremely hard to anonymise,” says Yves-Alexandre de Montjoye at Imperial College London. So instead of distributing actual data sets, the best approach is to provide a way for researchers to run tests on the data. That way they get aggregated results and never access to individuals. “The use of the data can’t be at the expense of people’s privacy,” he says.
+
+The University of Cambridge says it was alerted to the issues surrounding myPersonality by the Information Commissioner’s Office. It says that, as the app was created by Stillwell before he joined the university, “it did not go through our ethical approval processes”. It also says “the University of Cambridge does not own or control the app or data”.
+
+Research like this can help understand political advertising on Facebook and the spread of fake news. But it also shows how powerful a data set like this one really is, and how protected it needs to be. “It’s clear that data-sharing requires more control and oversight, but it would be a mistake to stop this sort of research,” says Sumner.
+
+When approached, Stillwell says that throughout the nine years of the project there has only been one data breach, and that researchers given access to the data set must agree not to de-anonymise the data. “We believe that academic research benefits from properly controlled sharing of anonymised data among the research community,” he told New Scientist.
+
+He also says that Facebook has long been aware of the myPersonality project, holding meetings with himself and Kosinski going back as far as 2011. “It is therefore a little odd that Facebook should suddenly now profess itself to have been unaware of the myPersonality research and to believe that the use of the data was a breach of its terms,” he says.
+
+The investigations by Facebook and the Information Commissioner’s Office should try to determine who accessed the myPersonality data and what it was used for. However, as it was shared with so many different people, tracking everyone who has a copy and what they did with it will prove very difficult. We will never know exactly who did what with this data set. “This is the tip of the iceberg,” says Dixon. “Who else has this data?”
