@@ -26,7 +26,7 @@ for query in queries:
 
 		except:
 			continue
-		#print (article.title)
+		
 
 		if count < 5:
 			if len(article.cleaned_text) >= 100:
@@ -36,7 +36,7 @@ for query in queries:
 
 				f = open(os.path.join(path_title, (filename + str(i) +  '.txt')), 'w')
 				f.write(article.title)
-				f.close()
+				f.close()  
 
 				i += 1
 				count += 1
