@@ -9,7 +9,7 @@ from nltk.stem import PorterStemmer
 
 from sklearn.decomposition import PCA
 
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as pltd
 from sklearn.cluster import KMeans
 
 from collections import Counter
@@ -32,7 +32,6 @@ corpus = np.array(corpus)
 
 titles = [open(f, 'r').read() for f in filepaths_t]
 titles = np.array(titles)
-
 
 ps = PorterStemmer()
 for i in range (corpus.shape[0]):
