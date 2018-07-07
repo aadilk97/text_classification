@@ -106,8 +106,12 @@ for i in namedEnt:
 					organizations.append(name)
 
 
+# print ('Entity dump: ', entities)
+# print ()
 
 ## Mapping each entity with the one in the list previously generated
+
+print ("Article id,   Article entity")
 for j in range(corpus.shape[0]):
 	text = corpus[j]
 	new_text = ''
@@ -142,7 +146,7 @@ for j in range(corpus.shape[0]):
 	for word, freq in (counts.most_common(1)):
 		print ("i = ", j, word)
 
-
+print ()
 
 ## ----- Checking for similarity ------
 
@@ -159,6 +163,8 @@ transformed = tf.fit_transform(corpus)
 pairwise_similarity = (transformed * transformed.T).A
 
 ## Printing out the similarity values for the last document
+
+print ("Pairwise similarity for the last article")
 print (pairwise_similarity[-1])
 
 
