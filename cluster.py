@@ -77,8 +77,6 @@ plt.show()
 # corpus = [open(f, 'r').read() for f in filepaths]
 # corpus = np.array(corpus)
 
-# print (corpus[0])
-
 # filename = 'doc'
 # labels = np.array(labels)
 # i = 0
