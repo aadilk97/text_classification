@@ -78,6 +78,8 @@ plt.show()
 # corpus = np.array(corpus)
 
 # filename = 'doc'
+# print (corpus[0])
+
 # labels = np.array(labels)
 # i = 0
 # for i in range(labels.shape[0]):
